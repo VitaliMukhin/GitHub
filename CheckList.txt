@@ -1,0 +1,14 @@
+Checklist
+id:
+Build:
+Date:
+Tester:
+Environment:
+Test type:
+Result:
+Status:
+	- passed
+	- failed
+	- blocked
+	- skipped
+	- not run
